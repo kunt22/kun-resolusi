@@ -3,3 +3,4 @@ KUN Resolusi
 - Belajar Node
 - Membuat Backend SIMRS
 - Kolaborasi dengan banyak expert
+- Madang akeh
