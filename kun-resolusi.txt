@@ -1,3 +1,5 @@
 KUN Resolusi
 - Belajar Javascript
 - Belajar Node
+- Membuat Backend SIMRS
+- Kolaborasi dengan banyak expert
